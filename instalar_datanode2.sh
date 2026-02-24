@@ -17,7 +17,7 @@ cat <<EOT >> /etc/hosts
 # Clúster Hadoop Big Data (Red Tailscale)
 100.122.144.60    namenode
 100.109.255.107   datanode1
-100.114.151.26    datanode2
+100.93.153.97     datanode2
 EOT
 
 echo ">>> 2. Instalando dependencias (Java 11, SSH, etc)..."
